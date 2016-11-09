@@ -1,0 +1,9 @@
+Z:\Visual Studio 2015\Projects\YouCantBakeItUP\YouCantBakeItUP\bin\Debug\YouCantBakeItUP.exe.config
+Z:\Visual Studio 2015\Projects\YouCantBakeItUP\YouCantBakeItUP\bin\Debug\YouCantBakeItUP.exe
+Z:\Visual Studio 2015\Projects\YouCantBakeItUP\YouCantBakeItUP\bin\Debug\YouCantBakeItUP.pdb
+Z:\Visual Studio 2015\Projects\YouCantBakeItUP\YouCantBakeItUP\obj\Debug\YouCantBakeItUP.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\YouCantBakeItUP\YouCantBakeItUP\obj\Debug\YouCantBakeItUP.exe
+Z:\Visual Studio 2015\Projects\YouCantBakeItUP\YouCantBakeItUP\obj\Debug\YouCantBakeItUP.pdb
+C:\Users\janell\Source\Repos\ITPDayThree-FA2016-36-1501-02\YouCantBakeItUP\bin\Debug\YouCantBakeItUP.exe.config
+C:\Users\janell\Source\Repos\ITPDayThree-FA2016-36-1501-02\YouCantBakeItUP\obj\Debug\YouCantBakeItUP.exe
+C:\Users\janell\Source\Repos\ITPDayThree-FA2016-36-1501-02\YouCantBakeItUP\obj\Debug\YouCantBakeItUP.pdb
